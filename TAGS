@@ -1,0 +1,30 @@
+
+./test/Spec.hs,30
+main main0,1
+main main1,2
+
+./app/Main.hs,452
+module Main Main7,8
+type App App22,23
+newtype AppError AppError23,24
+newtype AppError = AppError AppError23,24
+vertices vertices26,27
+vertices vertices27,28
+vsSrc vsSrc34,35
+fsSrc fsSrc48,49
+data Error Error56,57
+data Error = ErrorStage ErrorStage56,57
+data Error = ErrorStage StageError | ErrorProgram ErrorProgram56,57
+instance instance57,58
+main main64,65
+main main65,66
+mainLoop mainLoop82,83
+mainLoop mainLoop83,84
+
+./Setup.hs,15
+main main1,2
+
+./src/Lib.hs,65
+module LibLib0,1
+someFunc someFunc4,5
+someFunc someFunc5,6
